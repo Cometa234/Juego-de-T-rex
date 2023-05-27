@@ -1,2 +1,1 @@
-# Juego-de-T-rex
-Juego T-rex
+# C18_LP_AA1
